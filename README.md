@@ -45,7 +45,6 @@ RegisterNumber:25000694
 <img width="676" height="493" alt="image" src="https://github.com/user-attachments/assets/001fde4a-fe2f-4959-b399-a3f8b05dfa51" />
 
 
-**Output:**
 
 **RTL**
 
